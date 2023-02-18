@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "Denzel",
+      "name": "Denzel Gehl",
+      "password": "123143",
+      "email": "denzelgehl42@gmail.com",
+      "phone": "46757",
+      "country": "singapore",
+      "address": "Col Las Mercedes\nCortes",
+      "gender": "male"
+    },
+    {
+      "id": "Oscar",
+      "name": "Oscar Dominguez",
+      "password": "1234567",
+      "email": "antoniometal@gmail.com",
+      "phone": "90909090090",
+      "country": "",
+      "address": "En un cerro",
+      "gender": "female"
+    },
+    {
+      "id": "mIUazXB",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "address": "",
+      "gender": "Male"
+    },
+    {
+      "id": "Fabrizio",
+      "name": "Fabrizio Gehl",
+      "password": "1234567",
+      "email": "Fabrizio@gmail.com",
+      "phone": "90909342342",
+      "country": "",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "Admin",
+      "name": "Admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "phone": "909090909090",
+      "country": "",
+      "address": "",
+      "gender": "male"
+    }
+  ],
+  "client": [
+    {
+      "id": 1,
+      "identi": "1231313",
+      "name": "DEnzel",
+      "lastName": "Carcamo",
+      "email": "d@gmail.com",
+      "phone": "1231313",
+      "address": "Address",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "identi": "12313137",
+      "name": "Daniela",
+      "lastName": "santos",
+      "email": "d@gmail.com",
+      "phone": "123131323",
+      "address": "Address1",
+      "gender": "famale"
+    },
+    {
+      "id": 3,
+      "identi": "90909090",
+      "name": "Oscar",
+      "lastName": "Dominguez",
+      "email": "oscar@gmail.com",
+      "phone": "90909090",
+      "address": "lo que sea",
+      "gender": "male"
+    }
+  ]
+}
